@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 80%;
+	background-color: #BFAC95;
+margin: 0 auto;}
+
+h2 {font-family: 'DM Serif Display', serif;
+	font-size: 60px;
+	padding-left: 80px;
+	color: #40341F;}
+
+h1 {font-family: 'DM Serif Display', serif;
+	font-size: 40px;
+	padding-left: 80px;
+	text-align: left;
+	color: #24735C;}
+
+p {font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	padding-left: 80px;
+	text-align: left;
+	color: #40341F;} 
+
