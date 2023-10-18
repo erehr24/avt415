@@ -1,10 +1,33 @@
 @charset "UTF-8";
 /* CSS Document */
 h1 {font-family: 'Bricolage Grotesque';
-	font-size: 90px;}
+	font-size: 90px;
+	margin-left: 50px;
+	color: #F27E63}
 h2 {font-family: 'Bricolage Grotesque';
-	font-size: 50px;}
+	font-size: 50px;
+	margin-left: 50px;
+	color: #A6756A;}
 h3 {font-family: 'Bricolage Grotesque';
-	font-size: 30px;}
+	font-size: 30px;
+	margin-left: 50px;
+	color: #F27E63;}
 p {font-family: 'Work Sans';
-	font-size: 15px;}
+	font-size: 15px;
+	list-style-type: square;
+	margin-left: 50px;
+	color: #A6756A;}
+
+a {
+  color: #A65158;
+}
+
+a:visited {
+  color: #2A3E59;
+}
+
+a:hover {
+  color: #54728C;
+}
+
+body {background-color: azure;}
